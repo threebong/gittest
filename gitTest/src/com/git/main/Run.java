@@ -5,6 +5,6 @@ public class Run {
 		System.out.println("나의 첫 git진행 ");
 		
 		int age=19;
-		String name="유병승";
+		String name="피곤함Max";
 	}
 }
